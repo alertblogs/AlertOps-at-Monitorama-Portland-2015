@@ -1,40 +1,22 @@
-AlertOps Expert Guidance
+AlertOps at Monitorama Portland 2015
 ========
+AlertOps is proud to have sponsored this year’s Monitorama 2015 Portland OR . We would like to shout out to Jason Dixon for doing an excellent job in organizing the event. We enjoyed mixing with customers and partners at the event, as well as all the new folks we met there, and we are looking forward to sponsoring next year’s Monitorama!
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+moonitorama2-1024x683Curt Micol (pictured here) gave a talk on incident management that really resonated with the AlertOps team, as this speaks to the heart of what we’re all about.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+One key take-away: communication and collaboration need not be limited only to the support teams.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+As Curt pointed out, too often incident management only focuses on the support side. What is often missed is that business partners need to be made aware of issue impacting their customers. If there is an issue impacting external customers then maybe the customer service team would like to be notified. If the incident impacts internal customers, then the appropriate internal team should also be notified.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+This is what our customers have told us, and that is why we’ve added features to AlertOps to help meet these needs.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
-
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
-
+    AlertOps Workflows allow you to define communication actions to help create feedback loops and keep your partners informed. You can create a workflow to notify a business partner when an incident is created, another workflow to notify them of the progress, such as assignment, and another workflow to notify the partner when the incident has been closed.
+    AlertOps Message Rules define how you deliver messages to people, so you can define Message Rules for critical incident communication support teams, and Message Rules for business teams.
+    Topics are a neat feature that allow you to associate a team to one or more topics. When an incident is created with a defined topic, AlertOps can match the team to the incident. Topics can be set manually or through one of our inbound APIs.
+    
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-monitorama/
 
 Read more:
 ====
